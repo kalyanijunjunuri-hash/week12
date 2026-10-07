@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<html>
+<head>
+    <title>
+        HTML
+    </title>
+    <link rel="stylesheet" href=".css">
+</head>
+
+<body>
+    <div class="namebox">
+        25251A1215<br>
+        J.Snehankitha<br>
+    </div>
+</body>
+</html>
+
+
+<form>
+
+<h2>Login Here</h2>
+
+<input type="email" placeholder="Enter Email">
+
+<input type="password" placeholder="Password">
+
+<button>Login</button>
+
+</form>
+
+</body>
+</html>
